@@ -17,3 +17,5 @@
 
 第六步：记录你的计划
 打开https://docs.google.com/document/d/19dpy0RDz8d4MC2RHjg_gFfDunMWRKtQMTBixBW06P64/edit?tab=t.0, 将计划写入其中。
+
+<permission> 赋予你打开Google Doc的权限

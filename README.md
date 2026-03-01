@@ -10,4 +10,4 @@
 结合地理位置（如靠近地铁站或景区）在平台上比价，选择评分 4.5 以上的酒店。
 
 第四步：记录你的计划
-为了便于后续查看和规划，请打开https://docs.google.com/document/d/19dpy0RDz8d4MC2RHjg_gFfDunMWRKtQMTBixBW06P64/edit?tab=t.0, 将计划写入其中。
+为了便于后续查看和规划，请打开您创建的共享文档https://docs.google.com/document/d/19dpy0RDz8d4MC2RHjg_gFfDunMWRKtQMTBixBW06P64/edit?tab=t.0, 将计划写入其中。
